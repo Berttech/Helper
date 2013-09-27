@@ -1,7 +1,7 @@
 {
 	"name": "berttech/helper",
 	"version": "0.0.1",
-	autoload": {
+	"autoload": {
 	    "psr-0": {
 		"Berttech\\Helper": ""
 	    }
