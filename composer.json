@@ -1,0 +1,9 @@
+{
+	"name": "berttech/helper",
+	"version": "0.0.1",
+	"source":
+	{
+		"type": "vcs",
+		"url": "https://www.github.com/berttech/Helper"
+	}
+}
