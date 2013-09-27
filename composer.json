@@ -1,9 +1,0 @@
-{
-	"name": "berttech/helper",
-	"autoload": {
-	    "psr-0": {
-		"Berttech\\Helper": ""
-	    }
-	},
-	"minimum-stability": "dev"
-}
