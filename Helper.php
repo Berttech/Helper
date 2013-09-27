@@ -1,4 +1,4 @@
-<? namespace Helpers;
+<? namespace Bertech\Helper;
 
 class Helper {
 
